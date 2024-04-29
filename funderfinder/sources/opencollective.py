@@ -111,22 +111,25 @@ class OpenCollectiveFinder(Finder):
                 json={"query": query, "variables": variables},
             )
             data = result.json()
-            # print(data)
-            stats = data["data"]["collective"]
-            # print("--------")
-            # print("Stats",stats)
-            if stats:
-                result_arr.append(
-                    {
-                        "num_contributors": stats["totalFinancialContributors"],
-                        "Amount_of_funding_usd": stats["stats"]["totalAmountReceived"][
-                            "value"
-                        ],
-                        "datesFrom": date_range[0],
-                        "datesTo": date_range[1],
-                    }
-                )
-        print("result_arr", result_arr)
+            # print(data,"hhhhhhhhh")
+            if "error" in data:
+                pass
+            else:
+                stats = data["data"]["collective"]
+                # print("--------")
+                # print("Stats",stats)
+                if stats:
+                    result_arr.append(
+                        {
+                            "num_contributors": stats["totalFinancialContributors"],
+                            "Amount_of_funding_usd": stats["stats"][
+                                "totalAmountReceived"
+                            ]["value"],
+                            "datesFrom": date_range[0],
+                            "datesTo": date_range[1],
+                        }
+                    )
+        # print("result_arr", result_arr)
         return result_arr
 
     def run(self, gh_project_slug: Union[str, None] = None) -> list:
