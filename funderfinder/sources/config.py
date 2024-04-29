@@ -5,7 +5,6 @@ from .opencollective import OpenCollectiveFinder
 from .tidelift import TideliftFinder
 
 PRODUCTION_FINDERS = [
-    GitHubSponsorsFinder,
     NumFocusFinder,
     OpenCollectiveFinder,
     TideliftFinder,

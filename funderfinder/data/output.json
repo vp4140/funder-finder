@@ -1,0 +1,1304 @@
+[
+    {
+        "Amount_of_funding_usd": 1000,
+        "Project": "AMS Organization",
+        "Description": "AMS Short Course on Open Source Radar Software",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "ArviZ",
+        "Description": "Dashboard-assisted exploratory analysis of Bayesian models",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "ArviZ",
+        "Description": "Abstract plotting backend interface",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 1000,
+        "Project": "ArviZ",
+        "Description": "Extend InferenceData capabilities",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "ArviZ",
+        "Description": "Create educational material and give workshops related to exploratory analysis of Bayesian models with ArviZ",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Astropy",
+        "Description": "Developing Spectroscopic Reduction Tools",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 9750,
+        "Project": "Blosc",
+        "Description": "Lossy codecs for images in Blosc2",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 6250,
+        "Project": "Blosc",
+        "Description": "Enable the C-Blosc2 plugin support for python-blosc2",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4100,
+        "Project": "Blosc",
+        "Description": "Make python-blosc2 to leverage most of the new capabilities in C-Blosc2",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Blosc",
+        "Description": "A new plugin system for Blosc2",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Blosc",
+        "Description": "Support for zfp, a lossy codec for floating point data in Blosc2/Caterva",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Blosc",
+        "Description": "Document Blosc2 frame format and freeze API",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 7500,
+        "Project": "Bokeh",
+        "Description": "Empowering Aspiring Data Scientists and Encouraging Open Source Contribution in Nigeria through Bokeh Data Visualization Workshops",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "Bokeh",
+        "Description": "Rendering LaTeX equations in TARDIS plasma graphs using Bokeh",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Bokeh",
+        "Description": "Rewrite and expand Bokeh\u2019s tutorial notebooks with a focus on readability",
+        "datesFrom": "2021-09-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "Bokeh",
+        "Description": "Websocket Optimization for Tornado (for Bokeh)",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Bokeh",
+        "Description": "Bokeh Docs Modernization",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "Cantera",
+        "Description": "Redesigning and Improving Cantera\u2019s Website",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2231,
+        "Project": "Cantera",
+        "Description": "Developing accessible training modules for new and intermediate Canter users",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4000,
+        "Project": "Cantera",
+        "Description": "The 4th Annual Kinetics Code Conference",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "Cantera",
+        "Description": "Cantera Packaging and CI Infrastructure Upgrades",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Cantera",
+        "Description": "Modernize, Reorganize, and Update Cantera\u2019s Documentation",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Cantera",
+        "Description": "The 3rd Annual Kinetics Code Conference: Charting near- and long-term directions for Cantera software development",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Chainer",
+        "Description": "Chinese documentation",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 8000,
+        "Project": "conda",
+        "Description": "A fast, modern and memory safe solver for mamba & conda!",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "conda-forge",
+        "Description": "Access control improvements for opt-in CI (Continuous Integration) services",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2700,
+        "Project": "conda-forge",
+        "Description": "Adding pyproject.toml support to grayskull",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "conda-forge",
+        "Description": "Updating conda-forge compiler infrastructure",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "conda-forge",
+        "Description": "Add messaging functionality to conda and conda-build",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3750,
+        "Project": "conda-forge",
+        "Description": "Unified Recipe Regenerator",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "conda-forge",
+        "Description": "conda-forge sprint at SciPy 2019",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4000,
+        "Project": "CVXPY",
+        "Description": "Modernize the CVXPY web documentation and make it interactive",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Cython",
+        "Description": "Advancing the state of Cython 3.0",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 800,
+        "Project": "Effective Quadratures",
+        "Description": "Web presence funding",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "equadratures",
+        "Description": "Auto-Differentiable Equadratures",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2400,
+        "Project": "FEniCS",
+        "Description": "Travel grants to support researchers and contributors to attend FEniCS Conference 2020",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2400,
+        "Project": "FEniCS",
+        "Description": "Travel grants to FEniCS Conference 2017 to encourage the transition from user to regular contributor",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4400,
+        "Project": "FluxML",
+        "Description": "Make Julia's deep learning ecosystem interoperable with Python models",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "FluxML",
+        "Description": "Make WGLMakie a first-class Makie backend",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3500,
+        "Project": "Gensim",
+        "Description": "Modernize Gensim Website",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Gensim",
+        "Description": "Organize Gensim Documentation & Improve Discovery",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Gensim",
+        "Description": "Modern user-friendly documentation",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Gensim",
+        "Description": "FastText tutorials",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "GeomScale",
+        "Description": "Linear algebra kernel for volesti",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "GeomScale",
+        "Description": "A set of Jupyter notebooks for metabolic network analysis",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "GeomScale",
+        "Description": "Add parallel implementations in volesti using several C++ methods for parallelism",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "GeomScale",
+        "Description": "The first release of software package dingo",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "GeoPandas",
+        "Description": "Development and integration of the Spherely library within the Python geospatial ecosystem for processing geographic spatial data",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 8000,
+        "Project": "GeoPandas",
+        "Description": "Create a more consistent geometry API through the feature parity between low-level (Shapely) and high-level (GeoPandas) packages",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "GeoPandas",
+        "Description": "Leveraging the S2 library for processing geographic spatial data in Python",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "GeoPandas",
+        "Description": "Scaling GeoPandas with Dask: improved IO for supporting large geospatial data",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "GeoPandas",
+        "Description": "Building a better base for the geospatial Python stack: vectorized geometric operations & Shapely 2.0",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "GeoPandas",
+        "Description": "Improvement and modernization of GeoPandas documentation",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4800,
+        "Project": "GNU Radio",
+        "Description": "GNU Radio Tutorials Revamp",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "HoloViz",
+        "Description": "Revitalizing the HoloViz Website for Enhanced Learning and Community Engagement",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3520,
+        "Project": "ITK",
+        "Description": "Insight Journal",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3500,
+        "Project": "ITK",
+        "Description": "ITK Python Documentation Expansion",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "Julia",
+        "Description": "Harnessing GPU Power for Quantum Leap in Computational Chemistry: Scaling Electronic Structure Methods with Julia Language",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "Julia",
+        "Description": "Improving the first-time experience of Julia users with Pluto.jl",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "Julia",
+        "Description": "Enabling Seamless Geospatial Computing in Julia with GeoInterface",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "Julia",
+        "Description": "Advancing Julia Outreach and Community Efforts (Re-applying from last round, updated per committee feedback)",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Julia",
+        "Description": "Machine Learning documentation improvements for Julia",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Julia",
+        "Description": "Improving documentation generation for Julia and its packages",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Julia",
+        "Description": "Distributed scheduling with  MLJ",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4000,
+        "Project": "Julia",
+        "Description": "JuliaImages developer meeting",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Julia",
+        "Description": "(Sheehan Olver) BlockBandedMatrices.jl: add support for general array backends (GPU)",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Julia",
+        "Description": "Multi-Dimensional Bisection Method for finding the roots of non-linear implicit equation systems",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 8600,
+        "Project": "JuMP",
+        "Description": "Adding complex number support to JuMP",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4800,
+        "Project": "Jupyter/IPython",
+        "Description": "IPython maintenance and future proofing",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "LFortran",
+        "Description": "Compiling SciPy\u2019s Fortran packages with LFortran",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "LFortran",
+        "Description": "Compiling SciPy with LFortran",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2400,
+        "Project": "LFortran",
+        "Description": "Improving LFortran to compile stdlib and fpm",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "LFortran",
+        "Description": "Improving LFortran to Generate Optimized Code",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4400,
+        "Project": "MathJax",
+        "Description": "Converting MathJax's speech solution to Typescript",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4688,
+        "Project": "MathJax",
+        "Description": "Improved Dyslexia Support via Fine Grained Synchronized Highlighting",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Matplotlib",
+        "Description": "Hosted mac-mini for testing OSX-specific bugs",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Matplotlib",
+        "Description": "Matplotlib Cheatsheets",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "MDAnalysis",
+        "Description": "Unified and comprehensive documentation and learning resources for MDAnalysis",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "MDAnalysis",
+        "Description": "Improving the organization and content of MDAnalysis teaching materials",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "MDAnalysis",
+        "Description": "Periodic boundary handling and on the fly transformations",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "MDAnalysis",
+        "Description": "MDAnalysis tutorial and hackathon",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 1500,
+        "Project": "MDAnalysis",
+        "Description": "Widening platform availability for MDAnalysis: Full Python 3 Support",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5400,
+        "Project": "Mesa",
+        "Description": "Python Front End",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "mlpack",
+        "Description": "Ensuring Compatibility of the mlpack Neural Network Codebase with Bandicoot",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "mlpack",
+        "Description": "Completely revamp mlpack documentation",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4765,
+        "Project": "mlpack",
+        "Description": "mlpack \u2013 ensmallen \u2013 Initial GPU support via Bandicoot",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "mlpack",
+        "Description": "mlpack \u2013 Interactive Machine Learning Notebooks And Documentation",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "mlpack",
+        "Description": "mlpack for the Internet of Things and embedded devices",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "napari",
+        "Description": "Add advanced transparency support in napari by adding two-pass rendering to VisPy",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3550,
+        "Project": "NetworkX",
+        "Description": "Adopting property-based testing in NetworkX",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "nteract",
+        "Description": "Improving accessibility and usability for nteract desktop app",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "nteract",
+        "Description": "Funding for improving nteract documentation",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "NumExpr",
+        "Description": "NumExpr-3.0 Beta",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 6120,
+        "Project": "NumPy",
+        "Description": "Laying the groundwork for a NumPy-Financial 2.0 release",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 25000,
+        "Project": "NumPy, Scipy, Pandas, Matplotlib, Bokeh, Project Jupyter, NetworkX, scikit-image",
+        "Description": "Streamlining, modernizing, and improving accessibility for the PyData Sphinx Theme.",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4000,
+        "Project": "Open Journals",
+        "Description": "Docker images for the Open Journals processing pipeline",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2800,
+        "Project": "Open Journals",
+        "Description": "Open Journals website update",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3700,
+        "Project": "Orange",
+        "Description": "Utilities for internationalization of f-strings",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Orange",
+        "Description": "Data Science Textbook",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4000,
+        "Project": "Orange",
+        "Description": "Text Add-on Video Tutorials",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 1750,
+        "Project": "Orange",
+        "Description": "Text Analytics Introductory Course for Social Scientists",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Orange Data Mining",
+        "Description": "Girls go Data Mining",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "PALISADE",
+        "Description": "Integrating BGV Functionality into OpenFHE",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "PALISADE",
+        "Description": "Integrating BGV Functionality into PALISADE",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "PALISADE",
+        "Description": "Student Project Integration In Support of PALISADE",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 7345,
+        "Project": "pandas",
+        "Description": "Nonvisual Data Science Curriculum and Workshop Series",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "pandas",
+        "Description": "Improved Performance Benchmarking for pandas",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "pandas",
+        "Description": "Improving and modernizing the introductory \u201cGetting Started\u201d pages of the pandas documentation",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "pandas",
+        "Description": "Encourage contributors from minority groups to lead efforts in improving pandas documentation",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4500,
+        "Project": "poliastro",
+        "Description": "Enhancing the visualization capabilities of poliastro",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "poliastro",
+        "Description": "Array types for scaling poliastro",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "poliastro",
+        "Description": "New validation framework for poliastro",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "pomegranate",
+        "Description": "Backend switch to PyTorch",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Pomegranate",
+        "Description": "Improving Documentation, Examples, and Tutorials",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "pomegranate",
+        "Description": "Adding compatibility with user-defined Python models",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "pvlib",
+        "Description": "Expansion of solar irradiance processing capabilities for pvlib-python (resubmission)",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 250,
+        "Project": "pvlib",
+        "Description": "pvlib python jupyterhub tutorial",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "pvlib",
+        "Description": "PV \u2764\ufe0f Storage (adding storage support to pvlib)",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "pyhf",
+        "Description": "pyhf Users and Developers Workshop 2023",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 6000,
+        "Project": "pyiron",
+        "Description": "Helping users build workflows with ontological typing",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "PyMC3",
+        "Description": "Jax SMC samplers for PyMC",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "PyMC3",
+        "Description": "Fine tuning the Bayesian Additive Regression Trees implementation in PyMC3",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "PyMC3",
+        "Description": "Improving and expanding the implementation of Approximate Bayesian Computation",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 9500,
+        "Project": "PyTables",
+        "Description": "PyTables to leverage the HDF5 enhanced direct chunk capabilities",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4300,
+        "Project": "PyTables",
+        "Description": "PyTables to leverage the HDF5 enhanced direct chunk capabilities",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "PyTables",
+        "Description": "Better support for native HDF5 files",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "PyTables",
+        "Description": "h5py backend for PyTables",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "PyTorch-Ignite",
+        "Description": "Library improvements and a new machine learning templates written with PyTorch-Ignite",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "PyTorch-Ignite",
+        "Description": "Library improvements and Semi-Supervised Learning toolkit development.",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "PyTorch-Ignite",
+        "Description": "Visibility and communications improvements",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4975,
+        "Project": "QuantEcon",
+        "Description": "Theme improvements for Jupyter Book",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2700,
+        "Project": "QuTiP",
+        "Description": "QuTiP 5 Sprint",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 9962,
+        "Project": "rOpenSci",
+        "Description": "A Dashboard Interface for Software Peer-Review",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "rOpenSci",
+        "Description": "Publishing multilingual resources to increase diversity on open source projects",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "rOpenSci",
+        "Description": "Sustained Community Engagement and Automated Metrics for Community Health Analytics",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "rOpenSci",
+        "Description": "Making rOpenSci Community Engagement More Sustainable",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "rOpenSci",
+        "Description": "Building Engagement through a new Community Call \u2013 Virtual Hackathon Model",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "rOpenSci",
+        "Description": "Create an open online rOpenSci Community Contributing Guide",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 8400,
+        "Project": "SciML",
+        "Description": "SciML: Implementing Methods for Exact Model Reduction.",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4250,
+        "Project": "SciML",
+        "Description": "Add Scientific Machine Learning-Based Image Processing Tools and Tutorials to the SciML Organization in Julia",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "SciPy",
+        "Description": "Streamlined Special Function Development in SciPy",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4100,
+        "Project": "SciPy",
+        "Description": "Faster Random Variate Sampling from SciPy Statistical Distributions",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "SciPy",
+        "Description": "Introducing Users to Powerful New Features of SciPy",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3550,
+        "Project": "SciPy",
+        "Description": "Add PROPACK Sparse SVD to SciPy",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4985,
+        "Project": "SciPy",
+        "Description": "A Mixed Integer Programming Solver for SciPy",
+        "datesFrom": "2021-07-01T00:00:00Z",
+        "datesTo": "2022-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "SciPy",
+        "Description": "Improving boundary handling and data type support in scipy.ndimage",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4274,
+        "Project": "SciPy",
+        "Description": "SciPy Development Documentation Overhaul",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "SciPy",
+        "Description": "Complete the SciPy special functions documentation",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4978,
+        "Project": "SciPy",
+        "Description": "Enhanced LAPACK Support in SciPy",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "SciPy",
+        "Description": "Maturing a sparse array implementation for SciPy",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2000,
+        "Project": "SciPy",
+        "Description": "An Efficient, High-Level Implementation of Linear Programming",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4200,
+        "Project": "Shogun",
+        "Description": "Hyperparameter tuning with Shogun",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Shogun",
+        "Description": "Improving Shogun\u2019s build script generator",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4000,
+        "Project": "Shogun",
+        "Description": "Shogun Developer Meeting, Berlin",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 1500,
+        "Project": "Shogun",
+        "Description": "Fully integrate new parameter framework, unify API/interfaces, and release Shogun 7.0.",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "Shogun",
+        "Description": "Shogun website and UX redesign",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "sktime",
+        "Description": "Coverage of expeditures for 2022 developer days \u2013 core developers and mentees were invited to travel to London",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Solcore",
+        "Description": "Improve the sustainability and modularity of Solcore",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 6300,
+        "Project": "Spyder",
+        "Description": "Internationalization and Spanish Translation of Spyder\u2019s Documentation",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 8190,
+        "Project": "Spyder",
+        "Description": "Improving external completion plugins development support in Spyder",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 8190,
+        "Project": "Spyder",
+        "Description": "Improving Spyder IDE UX/UI",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 7800,
+        "Project": "Spyder",
+        "Description": "Improving the Spyder IDE installation experience",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4800,
+        "Project": "Spyder",
+        "Description": "Creating the ultimate terminal experience in Spyder with Spyder-terminal",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 1820,
+        "Project": "Spyder",
+        "Description": "Content and design improvements to the Spyder documentation",
+        "datesFrom": "2019-07-01T00:00:00Z",
+        "datesTo": "2020-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Spyder",
+        "Description": "Spyder 4: Making the Scientific Python Development Environment even better",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "Stan",
+        "Description": "Non-English versions of Stan user guide and language reference",
+        "datesFrom": "2023-07-01T00:00:00Z",
+        "datesTo": "2024-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 10000,
+        "Project": "Stan",
+        "Description": "Commumity building through StanCon 2023",
+        "datesFrom": "2023-01-01T00:00:00Z",
+        "datesTo": "2023-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4800,
+        "Project": "Stan",
+        "Description": "Update mc-stan.org",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "Statsmodels",
+        "Description": "Probability Plots and Generalized Additive Models (finish stalled pull requests)",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5250,
+        "Project": "SunPy",
+        "Description": "Scoping the future of timeseries data in sunpy",
+        "datesFrom": "2022-07-01T00:00:00Z",
+        "datesTo": "2023-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "SunPy",
+        "Description": "Adding first class support to SunPy for co-aligning images",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "SunPy",
+        "Description": "Improving the Usability of SunPy\u2019s Data Downloader",
+        "datesFrom": "2018-01-01T00:00:00Z",
+        "datesTo": "2018-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2300,
+        "Project": "SymPy",
+        "Description": "Merging of the new SymPy plotting module and further usability improvements",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "SymPy",
+        "Description": "Improving SymPy plotting capabilities",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "SymPy",
+        "Description": "Upgrading SymPy Gamma\u2019s infrastructure to support Python 3 and latest SymPy",
+        "datesFrom": "2020-01-01T00:00:00Z",
+        "datesTo": "2020-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "SymPy",
+        "Description": "Expanding ODE Module",
+        "datesFrom": "2019-01-01T00:00:00Z",
+        "datesTo": "2019-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "SymPy",
+        "Description": "MatchPy C++ code generator for SymPy/symengine.",
+        "datesFrom": "2018-07-01T00:00:00Z",
+        "datesTo": "2019-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "SymPy",
+        "Description": "SymPy 1.1 Release Support",
+        "datesFrom": "2017-01-01T00:00:00Z",
+        "datesTo": "2017-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2300,
+        "Project": "TARDIS",
+        "Description": "Support for TARDIS Con 2022",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 3000,
+        "Project": "TARDIS",
+        "Description": "Interactive documentation for TARDIS",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2500,
+        "Project": "TARDIS",
+        "Description": "Interactive documentation for TARDIS",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "TARDIS",
+        "Description": "Atomic data infrastructure for TARDIS",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 2000,
+        "Project": "TARDIS",
+        "Description": "TARDIS Continuous Integration reference data improvements",
+        "datesFrom": "2020-07-01T00:00:00Z",
+        "datesTo": "2021-01-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 4600,
+        "Project": "Taskflow",
+        "Description": "Developer Training Programs for Taskflow",
+        "datesFrom": "2022-01-01T00:00:00Z",
+        "datesTo": "2022-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Taskflow",
+        "Description": "Taskflow-San: Sanitizing Erroneous Control Flow in Taskflow Graphs",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    },
+    {
+        "Amount_of_funding_usd": 5000,
+        "Project": "Taskflow",
+        "Description": "Standard GPU Algorithms with Task Graph Parallelism",
+        "datesFrom": "2021-01-01T00:00:00Z",
+        "datesTo": "2021-07-01T00:00:00Z"
+    }
+]
