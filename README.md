@@ -4,9 +4,11 @@
 
 This project allows you to retrieve funding information for a GitHub repository of interest to you. Current
 funding sources we support include:
+In this repo which has been forked from the main repo has some changes in the funding sources that has been supported, the github sponsers repo has been discarded.
+With collaboraive decision.
 
 - [Open Collective](funderfinder/sources/opencollective.py)
-- [Github Sponsors](funderfinder/sources/github_sponsors.py)
+- [Github Sponsors](funderfinder/sources/github_sponsors.py) (discarded from current repo)
 - [NumFOCUS](funderfinder/sources/numfocus.py)
 - [Tidelift](funderfinder/sources/tidelift.py)
 - [Google Summer of Code](fundefinder/sources/gsoc.py)
@@ -20,7 +22,7 @@ See our issue list for funding sources we plan to retrieve in the future. We wel
 Download the project and switch to the project directory:
 
 ```bash
-git clone https://github.com/georgetown-cset/funder-finder
+git clone https://github.com/vp4140/funder-finder.git
 cd funder-finder
 ```
 
